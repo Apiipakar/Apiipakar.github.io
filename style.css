@@ -793,4 +793,7 @@ footer {
     flex-direction: column;
     text-align: center;
   }
+  .my-information p {
+    font-size: 12px;
+  }
 }
